@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/.settings
+/target
+/bin
+src/test/resources/node
+src/test/resources/module.log
+src/test/resources/npm-debug.log
+src/test/resources/package-lock.json
+src/test/resources/node_modules
+src/test/resources/temp
+src/test/resources/cli.log

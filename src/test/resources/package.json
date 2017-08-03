@@ -1,0 +1,14 @@
+{
+  "name": "web-push-setup",
+  "version": "1.0.0",
+  "description": "required setup for web-push-testing-service",
+  "repository": "none",
+  "license": "Unlicense",
+  "scripts": {
+    "start": "web-push-testing-service start PushService",
+    "stop": "web-push-testing-service stop PushService"
+  },
+  "dependencies": {
+    "web-push-testing-service": "0.3.3"
+  }
+}
